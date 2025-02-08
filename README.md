@@ -43,6 +43,6 @@ tools = ["Metasploit", "Burp Suite", "Wireshark", "ELK Stack"]
 
 ### 📫 Reach Me
 
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&color=blue&style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/static/v1?label=Email&message=Contact&color=red&style=flat&logo=gmail)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&color=blue&style=flat&logo=linkedin)](https://linkedin.com/in/zoobe)  
+[![Email](https://img.shields.io/static/v1?label=Email&message=Contact&color=red&style=flat&logo=gmail)](mailto:zee196852@gmail.com)
 
