@@ -25,6 +25,7 @@ $ cat skills.txt
 # Cloud
 aws = ["EC2", "S3", "IAM", "CloudTrail"]
 azure = ["Active Directory", "Sentinel", "Kubernetes"]
+gcp = ["Compute Engine", "Cloud Storage", "IAM", "BigQuery"]
 
 # Security
 tools = ["Metasploit", "Burp Suite", "Wireshark", "ELK Stack"]
