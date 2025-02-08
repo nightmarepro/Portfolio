@@ -1,36 +1,43 @@
-# Hi, I'm Mir Zubair Hameed 👨💻
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Mir Zubair Hameed
 
-![Hacker Banner](https://raw.githubusercontent.com/mirzubair/mirzubair/main/hacker-banner.png) *[You can delete this line or add your own image later]*
-
----
-
-### **About Me** 🔒
-- **Cybersecurity Engineer** | **Cloud Security Specialist**
-- 🔭 Working on: Secure CI/CD pipelines for cloud environments
-- 🌱 Learning: Kubernetes security & Zero Trust Architecture
-- 💬 Ask me about: AWS Security, SIEM tools, ethical hacking
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=30&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=800&height=100&lines=Cybersecurity+Engineer;Cloud+Ops+Specialist;Open-Source+Enthusiast" alt="Hacker Terminal Animation">
+</p>
 
 ---
 
-### **Tech Stack** 🛠️
-**Cloud**:  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### 🔒 **About Me**
+```bash
+$ whoami
+-> Cybersecurity & Cloud Engineer
+-> Focus: Threat Detection | Cloud Security | Automation
 
-**Security Tools**:  
-![Metasploit](https://img.shields.io/badge/Metasploit-FF6F61?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+$ cat skills.txt
+-> AWS | Python | Docker | SIEM Tools | Ethical Hacking
+# Cloud
+aws = ["EC2", "S3", "IAM", "CloudTrail"]
+azure = ["Active Directory", "Sentinel", "Kubernetes"]
+
+# Security
+tools = ["Metasploit", "Burp Suite", "Wireshark", "ELK Stack"]
+📂 Projects
+Project	Description	Tech Used
+Cloud Security	Automated AWS audits	Python, Terraform
+SIEM System	Real-time threat detection	ELK Stack, Docker
+📫 Reach Me: Email | LinkedIn
+
+Copy
+
+3. **Customize**:
+   - Replace `your@email.com` and `yourprofile` with your actual details.
+   - Update projects and skills.
+
+4. **Commit Changes**:
+   - Click "Commit changes" at the bottom of the GitHub file editor.
 
 ---
 
-### **Projects** 📂
-| Project | Description | Tools Used |
-|---------|-------------|------------|
-| [Cloud Security Automation](https://github.com/yourusername/project1) | Automated AWS security audits | Python, Terraform |
-| [SIEM System](https://github.com/yourusername/project2) | Real-time threat detection | ELK Stack, Docker |
+### **Done!** Your portfolio will now live at:  
+`https://github.com/yourusername` (replace with your actual username).
 
----
-
-### **Contact** 📫
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:youremail@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
+Want me to simplify it even more? Let me know! 🙌
