@@ -1,48 +1,36 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=30&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=800&height=100&lines=%24+echo+%22Hello%2C+World!+I'm+Mir+Zubair+Hameed%22;%24+whoami+--cybersecurity-engineer;%24+nmap+-p+80+443+github.com" alt="Hacker Terminal Animation">
-</p>
+# Hi, I'm Mir Zubair Hameed 👨💻
 
-<!-- ASCII Art Banner -->
-<p align="center">
-  <pre>
-             ███           █████       █████                                                                             
-            ░░░           ░░███       ░░███                                                                              
- ████████   ████   ███████ ░███████   ███████   █████████████    ██████   ████████   ██████  ████████  ████████   ██████ 
-░░███░░███ ░░███  ███░░███ ░███░░███ ░░░███░   ░░███░░███░░███  ░░░░░███ ░░███░░███ ███░░███░░███░░███░░███░░███ ███░░███
- ░███ ░███  ░███ ░███ ░███ ░███ ░███   ░███     ░███ ░███ ░███   ███████  ░███ ░░░ ░███████  ░███ ░███ ░███ ░░░ ░███ ░███
- ░███ ░███  ░███ ░███ ░███ ░███ ░███   ░███ ███ ░███ ░███ ░███  ███░░███  ░███     ░███░░░   ░███ ░███ ░███     ░███ ░███
- ████ █████ █████░░███████ ████ █████  ░░█████  █████░███ █████░░████████ █████    ░░██████  ░███████  █████    ░░██████ 
-░░░░ ░░░░░ ░░░░░  ░░░░░███░░░░ ░░░░░    ░░░░░  ░░░░░ ░░░ ░░░░░  ░░░░░░░░ ░░░░░      ░░░░░░   ░███░░░  ░░░░░      ░░░░░░  
-                  ███ ░███                                                                   ░███                        
-                 ░░██████                                                                    █████                       
-                  ░░░░░░                                                                    ░░░░░                        
-  </pre>
-</p>
-
-<p align="center">
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/𝚆𝙴𝙱𝚂𝙸𝚃𝙴-32CD32?style=for-the-badge&logo=internet-explorer&logoColor=black" alt="Website">
-  </a>
-  <a href="https://linkedin.com/in/zoobe">
-    <img src="https://img.shields.io/badge/𝙻𝙸𝙽𝙺𝙴𝙳𝙸𝙽-32CD32?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/𝚃𝚆𝙸𝚃𝚃𝙴𝚁-32CD32?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter">
-  </a>
-</p>
+![Hacker Banner](https://raw.githubusercontent.com/mirzubair/mirzubair/main/hacker-banner.png) *[You can delete this line or add your own image later]*
 
 ---
 
-### **<span style="color:#32CD32">⮞ 𝚂𝙴𝙲𝚄𝚁𝙸𝚃𝚈 𝙳𝙰𝚂𝙷𝙱𝙾𝙰𝚁𝙳</span>**
+### **About Me** 🔒
+- **Cybersecurity Engineer** | **Cloud Security Specialist**
+- 🔭 Working on: Secure CI/CD pipelines for cloud environments
+- 🌱 Learning: Kubernetes security & Zero Trust Architecture
+- 💬 Ask me about: AWS Security, SIEM tools, ethical hacking
 
-```bash
-# About Me
-$ whoami
--> Cybersecurity & CloudOps Engineer
--> Specialization: Threat Hunting | Cloud Security | DevSecOps
+---
 
-$ cat current_projects.txt
--> Building an AI-powered threat detection system for Kubernetes clusters
+### **Tech Stack** 🛠️
+**Cloud**:  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-$ tail -f learning_logs.log
--> [2023] Mastering Zero Trust Architecture & Cloud-Native Pentesting
+**Security Tools**:  
+![Metasploit](https://img.shields.io/badge/Metasploit-FF6F61?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+---
+
+### **Projects** 📂
+| Project | Description | Tools Used |
+|---------|-------------|------------|
+| [Cloud Security Automation](https://github.com/yourusername/project1) | Automated AWS security audits | Python, Terraform |
+| [SIEM System](https://github.com/yourusername/project2) | Real-time threat detection | ELK Stack, Docker |
+
+---
+
+### **Contact** 📫
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
