@@ -41,7 +41,21 @@ tools = ["Metasploit", "Burp Suite", "Wireshark", "ELK Stack"]
 | SIEM System    | Real-time threat detection  | ELK Stack, Docker   |
 
 ---
+### 🎓 Licenses & Certifications
 
+| Certification | Issued By | Date | Credential ID |
+|--------------|-----------|------|--------------|
+| Deloitte Australia - Cyber Job Simulation | Forage | Feb 2025 | Gkm6MXttcPiQzf4Ku |
+| Detect, Respond, and Recover from Cloud Cybersecurity Attacks | Google | Feb 2025 | 13819170 |
+| Google Cloud Cybersecurity Certificate | Google | Feb 2025 | - |
+| Cloud Security Risks: Identify and Protect Against Threats | Google | Jan 2025 | 13707494 |
+| IBM Spectrum Virtualize Integration with Ansible | IBM | Jan 2025 | - |
+| Introduction to Security Principles in Cloud Computing | Google | Jan 2025 | 13514942 |
+| Manage Kubernetes in Google Cloud | Google | Jan 2025 | 13533239 |
+| Strategies for Cloud Security Risk Management | Google | Jan 2025 | 13564317 |
+| Build a Face Recognition Application using Python | GUVI Support | Apr 2021 | 86wv13rM2V932933K1 |
+
+---
 ### 📫 Reach Me
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&color=blue&style=flat&logo=linkedin)](https://linkedin.com/in/zoobe)  
