@@ -7,7 +7,7 @@
 ---
 
 ### 🔒 **About Me**
-```bash
+
 $ whoami
 -> Cybersecurity & Cloud Engineer
 -> Focus: Threat Detection | Cloud Security | Automation
