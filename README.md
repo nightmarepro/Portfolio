@@ -6,38 +6,41 @@
 
 ---
 
-### 🔒 **About Me**
+### 🔒 About Me
 
+```bash
 $ whoami
 -> Cybersecurity & Cloud Engineer
 -> Focus: Threat Detection | Cloud Security | Automation
 
 $ cat skills.txt
 -> AWS | Python | Docker | SIEM Tools | Ethical Hacking
+```
+
+---
+
+### 🛠️ Tech Stack
+
+```python
 # Cloud
 aws = ["EC2", "S3", "IAM", "CloudTrail"]
 azure = ["Active Directory", "Sentinel", "Kubernetes"]
 
 # Security
 tools = ["Metasploit", "Burp Suite", "Wireshark", "ELK Stack"]
-📂 Projects
-Project	Description	Tech Used
-Cloud Security	Automated AWS audits	Python, Terraform
-SIEM System	Real-time threat detection	ELK Stack, Docker
-📫 Reach Me: Email | LinkedIn
-
-Copy
-
-3. **Customize**:
-   - Replace `your@email.com` and `yourprofile` with your actual details.
-   - Update projects and skills.
-
-4. **Commit Changes**:
-   - Click "Commit changes" at the bottom of the GitHub file editor.
+```
 
 ---
 
-### **Done!** Your portfolio will now live at:  
-`https://github.com/yourusername` (replace with your actual username).
+### 📂 Projects
 
-Want me to simplify it even more? Let me know! 🙌
+| Project         | Description                 | Tech Used           |
+|----------------|-----------------------------|----------------------|
+| Cloud Security | Automated AWS audits        | Python, Terraform   |
+| SIEM System    | Real-time threat detection  | ELK Stack, Docker   |
+
+---
+
+### 📫 Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/zoobe)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:zee196852@gmail.com)
