@@ -96,31 +96,6 @@ tools = ["Metasploit", "Burp Suite", "Wireshark", "ELK Stack"]
 ---
 
 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
- 
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffinxp&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/coffinxp/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=coffinxp&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/coffinxp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinxp&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
-
-<br><br>
-
-
-
-<h2 id="donate" align=''> Support⚡️</h2>
-
-<details>
-<summary>Buy Me A Coffee</summary>
-
-<p align="center"><img src="https://github.com/user-attachments/assets/b4b5c22b-2402-4c52-8a62-a298c24347dc" width="80%" height="auto"/></p>
-
-<p align="center"><a href="https://buymeacoffee.com/coffinxp"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
-
-</details>
-
-
-
-
 <p align="center">
   <b><i>"Never give up. Never back down."</i></b>
 </p>
