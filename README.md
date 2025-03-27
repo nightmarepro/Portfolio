@@ -25,7 +25,7 @@ I'm **`Zoobe`**, a hacker & Security Researcher and aspiring Cybersecurity Speci
 - **Name**: zoobe
 - **From**: Kashmir
 - **Bug Hunter** | **Security Researcher** | **forensics Analyst**
-- i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering,spy.
+- I have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering,spy.
 -**Reverse Engineering**, **Malware Analysis**
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything** 
